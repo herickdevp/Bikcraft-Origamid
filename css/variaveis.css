@@ -1,0 +1,25 @@
+:root {
+  /* PALETA PRIMÁRIA */
+  --p1: #ffbb00;
+  --p2: #e4a30b;
+  --p3: #a66f00;
+  --p4: #664400;
+  --p5: #332200;
+
+  /* TONS DE CINZA */
+  --w: #ffffff;
+  --c1: #f7f7f7;
+  --c2: #ededed;
+  --c3: #dedede;
+  --c4: #cccccc;
+  --c5: #b2b2b2;
+  --c6: #9c9c9c;
+  --c7: #717171;
+  --c8: #595959;
+  --c9: #404040;
+  --c10: #3e3e3e;
+  --c11: #111111;
+  --c12: #000000;
+
+  --grandiente--btn: linear-gradient(#ffbf00, #f2a60c);
+}
