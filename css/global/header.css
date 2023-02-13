@@ -19,7 +19,6 @@
 .header-menu a {
   display: inline-block;
   padding: 16px 0px;
-  color: var(--w);
   position: relative;
 }
 
@@ -28,7 +27,7 @@
   display: block;
   height: 2px;
   width: 0px;
-  background: var(--w);
+  background: var(--c0);
   transition: 300ms;
   position: absolute;
 }

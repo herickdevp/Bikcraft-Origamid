@@ -1,9 +1,14 @@
 /* Global */
 @import "./global/global.css";
+@import "./ultilidades/tipografia.css";
+@import "./ultilidades/cores.css";
 @import "./global/header.css";
 
-/* Componentes */
+/* Utilidades */
 @import "./ultilidades/componentes.css";
 
 /* home */
 @import "./home/introducao.css";
+
+/* bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
