@@ -1,13 +1,14 @@
+.header-bg {
+  background-color: var(--c12);
+}
 .header {
-  max-width: 1200px;
-  box-sizing: border-box; /*Não somar o padding ao valor total da largura*/
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
-  margin: 0px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .header-menu {

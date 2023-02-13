@@ -1,14 +1,11 @@
 .introducao-bg {
   box-shadow: inset 0 -120px 0 var(--c0); /*inset - difinir a sombra para dentro*/ /*box-shadoew foi a solucao para fazer a imagem com efeito de estar saindo da div*/
+  background-color: var(--c12);
 }
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
-  box-sizing: border-box;
-  max-width: 1200px;
-  padding: 0px 20px;
-  margin: 0px auto;
 }
 
 .introducao-conteudo {
@@ -25,6 +22,7 @@
 }
 
 .introducao img {
+  width: 100%;
   height: 100%;
   object-fit: cover; /*Redimensiona para caber no conteiner sem distorcer (cover)*/
   border-radius: 4px;

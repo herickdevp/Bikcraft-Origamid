@@ -25,13 +25,6 @@
   --grandiente-btn-hover: linear-gradient(#ffb60d, #e59317);
 }
 
-/* BACkGROUD */
-
-.bg-black {
-  background: var(--c12);
-  color: var(--w);
-}
-
 .cor-p1 {
   color: var(--p1);
 }
