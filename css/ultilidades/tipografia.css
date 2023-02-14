@@ -45,6 +45,10 @@
   font: 400 0.875rem/1.42 "Roboto", sans-serif; /*14/20*/
 }
 
+.font-expecial {
+  font: 700 1rem/1.25 "Merriweather", serif;
+}
+
 /* RESPONSIVO */
 
 @media (max-width: 1200px) {

@@ -28,11 +28,55 @@
 .cor-p1 {
   color: var(--p1);
 }
+.cor-p2 {
+  color: var(--p2);
+}
+.cor-p3 {
+  color: var(--p3);
+}
+.cor-p4 {
+  color: var(--p4);
+}
+.cor-p5 {
+  color: var(--p5);
+}
 
 .cor-c0 {
   color: var(--c0);
 }
-
+.cor-c1 {
+  color: var(--c1);
+}
+.cor-c2 {
+  color: var(--c2);
+}
+.cor-c3 {
+  color: var(--c3);
+}
+.cor-c4 {
+  color: var(--c4);
+}
 .cor-c5 {
   color: var(--c5);
+}
+.cor-c6 {
+  color: var(--c6);
+}
+.cor-c7 {
+  color: var(--c7);
+}
+.cor-c8 {
+  color: var(--c8);
+}
+.cor-c9 {
+  color: var(--c9);
+}
+.cor-c10 {
+  color: var(--c10);
+}
+.cor-c11 {
+  color: var(--c11);
+}
+.cor-c12 {
+  color: var(--c12);
 }
