@@ -1,6 +1,6 @@
 .conteiner {
   box-sizing: border-box; /*Não somar o padding ao valor total da largura*/
-  width: 1200px;
+  max-width: 1200px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;

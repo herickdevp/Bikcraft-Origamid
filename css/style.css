@@ -8,9 +8,15 @@
 @import "./ultilidades/componentes.css";
 
 /* home */
+
+/* introducao */
 @import "./home/introducao.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
+/* tecnologia */
 @import "./home/tecnologia.css";
+
+/* parceiros */
+@import "./home/parceiros.css";
