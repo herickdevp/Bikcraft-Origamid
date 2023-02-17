@@ -9,6 +9,9 @@
 .font-1-l {
   font: 400 1.5rem/1.5 "Poppins", sans-serif; /*24/36*/
 }
+.font-1-l-b {
+  font: 600 1.5rem/1.5 "Poppins", sans-serif; /*24/36*/
+}
 .font-1-m {
   font: 400 1.125rem/1.33 "Poppins", sans-serif; /*18/24*/
 }

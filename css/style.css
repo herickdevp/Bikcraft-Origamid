@@ -29,3 +29,7 @@
 
 /* footer */
 @import "./global/footer.css";
+
+@import "./termos/termos.css";
+
+@import "./bicicletas/biciletas.css";

@@ -1,0 +1,15 @@
+.termos {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+.termos h2 {
+  margin-bottom: 20px;
+}
+.termos ul {
+  margin-bottom: 40px;
+}
+
+.termos li {
+  max-width: 75ch;
+  margin-bottom: 24px;
+}
