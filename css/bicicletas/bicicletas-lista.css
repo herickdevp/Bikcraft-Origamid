@@ -10,11 +10,15 @@
 .bicicletas-lista ul {
   display: flex;
   gap: 40px;
-  max-width: 1400px;
   padding: 0px 20px 20px 20px;
+  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
   overflow-x: auto; /*cria uma barra de scroll caso o elemento vase o conteiner*/
+}
+
+#bicicleta .bicicletas-lista ul {
+  padding: 0px 0px 20px 0px;
 }
 
 .bicicletas-lista li {
@@ -29,7 +33,7 @@
 
 .bicicletas-lista img {
   margin-bottom: 16px;
-  object-fit: cover;
+  /* object-fit: cover; */
   /* object-position: right center; */
 }
 
